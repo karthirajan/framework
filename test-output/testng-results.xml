@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="69" started-at="2019-01-23T14:26:45Z" finished-at="2019-01-23T14:26:45Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="69" started-at="2019-01-23T14:26:45Z" finished-at="2019-01-23T14:26:45Z">
+      <class name="org.framework.Employee">
+        <test-method status="PASS" signature="test6()[pri:0, instance:org.framework.Employee@458ad742]" name="test6" duration-ms="21" started-at="2019-01-23T14:26:45Z" finished-at="2019-01-23T14:26:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test6 -->
+        <test-method status="PASS" signature="test5()[pri:0, instance:org.framework.Employee@458ad742]" name="test5" duration-ms="20" started-at="2019-01-23T14:26:45Z" finished-at="2019-01-23T14:26:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method status="PASS" signature="test7()[pri:0, instance:org.framework.Employee@458ad742]" name="test7" duration-ms="25" started-at="2019-01-23T14:26:45Z" finished-at="2019-01-23T14:26:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test7 -->
+      </class> <!-- org.framework.Employee -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
