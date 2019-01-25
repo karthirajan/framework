@@ -8,7 +8,7 @@ public class Hello {
 	    System.out.println("1");
 
 	}
-	@Test(groups= {"karthi"})
+	@Test(groups= {"ajith"})
 	 void test2() {
 	    System.out.println("2");
 
@@ -18,7 +18,7 @@ public class Hello {
 	    System.out.println("3");
 
 	}
-	@Test(groups= {"ajith"})
+	@Test(groups= {"karthi"})
 	 void test4() {
 	    System.out.println("4");
 
